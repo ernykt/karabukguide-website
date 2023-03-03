@@ -1,0 +1,132 @@
+#hero{
+    padding: 50px 0 100px 0;
+    background-image: url("https://yiyegeze.com/wp-content/uploads/2020/07/Karab%C3%BCk-Gezilecek-Yerler.jpg;");
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0 0 4px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title{
+    background:#8c5e38;
+}
+
+#desc{
+    margin-top: 0px;
+    background: #696a40;
+}
+
+body{
+    margin: 0;
+    font-family: "Sofia", sans-serif;
+    background: linear-gradient(#ffffff,#B4BCF3);
+}
+
+#activities{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.pht{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #4e6a04;
+    background-size: cover;
+}
+
+.everything{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+#card{
+    width: 600px;
+    height: 300px;
+    border-bottom: 10px solid #EFB0C9;
+    border-left: 4px solid #B4BCF3;
+    border-right: 4px solid #B4BCF3;
+    border-top: 4px solid #B4BCF3;
+    border-radius: 35px;
+    padding: 20px;
+    display: flex;
+    justify-content: start;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    background: #a2d2ff ;
+}
+
+#tit{
+    margin-left: 100px ;
+    margin-bottom: 10px;
+}
+
+#exp{
+    width: 400px;
+    margin-left: 10px;
+}
+
+#elif{
+    margin-top: 35px;
+    border-radius: 35px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #a2d2ff;
+}
+
+#cta{
+    border-bottom: 4px solid #EFB0C9;
+}
+
+#f1{
+    background-image: url("images/pht1.jpg");
+}
+
+#f2{
+    background-image: url("https://fastly.4sqi.net/img/general/600x600/106879365_3ohwAz5j4tHEdGCzejmUmEMM7dGcQxt-lo-XQC_ilMA.jpg");
+}
+
+#f3{
+    background-image: url("https://fastly.4sqi.net/img/general/600x600/471220543__ya2_x4HyOyGMyv9obuwtvkqFEsnTLNbi3ECu5_F120.jpg");
+}
+
+#f4{
+    background-image: url("images/pht4.png");
+}
+
+#f5{
+    background-image: url("images/pht5.png");
+}
+
+#f6{
+    background-image: url("images/pht6.png");
+}
+
+#f1:hover{
+    background-image: url("images/pht1.png");
+}
+
+#f2:hover{
+    background-image: url("images/cirkin.png");
+}
+
+#f3:hover{
+    background-image: url("images/pht3.png");
+}
+
+#f4:hover{
+    background-image: url("images/gazoz.png");
+}
+
+#f5:hover{
+    background-image: url("images/bes.png");
+}
+
+#f6:hover{
+    background-image: url("images/asagi.png");
+}
+
